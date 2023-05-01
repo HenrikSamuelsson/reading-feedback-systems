@@ -10,4 +10,4 @@ __dynamical system__ System whose behaviour changes over time. An example is a b
 
 __feedback__ Coupling between dynamical systems in a circular chain of cause and effect. An example is body temperature regulation, when your body temperature rises through exercise, you will start to sweat to release heat.
 
-__feedforward__ Conrtrol based on a open-loop scheme that takes as disturbances as input to enable the control block to directly compensate without having feedback from the system output.
+__feedforward__ Control based on a open-loop scheme that takes as disturbances as input to enable the control block to directly compensate without having feedback from the system output.
