@@ -16,6 +16,8 @@ __closed loop__ A system divided into parts that are interconnected in a cycle. 
 
 __control__ This term is in the book defined as the use of algorithms and feedback in engineered systems.
 
+__control law__ Algorithm in a control system that provides functionality to compute control action based on input from sensors.
+
 __dynamical system__ System whose behaviour changes over time. An example is a bathtub with water flowing into the tub through the facet and leaving through the drain.
 
 __feedback__ Coupling between dynamical systems in a circular chain of cause and effect. An example is body temperature regulation, when your body temperature rises through exercise, you will start to sweat to release heat.
