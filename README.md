@@ -35,3 +35,5 @@ __negative feedback__ Type of feedback causing a response that will reverse or c
 __open loop__ A system where parts are not connected in a cycle as opposed to a closed loop system.
 
 __positive feedback__ Type of feedback causing a response that will amplify the changes rather than reverse them, in other words the opposite of negative feedback. Encouragement is a form of positive feedback.
+
+__proportional integral (PI)__ Type of regulation based on compensating proportionally for the error between the measured and desired output and the integral of that error.
