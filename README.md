@@ -10,7 +10,7 @@ Material related to reading the book Feedback Systems - Second Edition, written 
 
 ### Terms
 
-The following terms are introduced in this chapter.
+Alphabetical list of terms introduced in chapter 1:
 
 __closed loop__ A system divided into parts that are interconnected in a cycle. A system with feedback will include a closed loop.
 
