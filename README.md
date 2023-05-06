@@ -14,6 +14,8 @@ Alphabetical list of terms introduced in chapter 1:
 
 __closed loop__ A system divided into parts that are interconnected in a cycle. A system with feedback will include a closed loop.
 
+__command signal__ Input to a system from an actor to change the state of the system. For example an operator that changes setting of a machine through a control panel.
+
 __control__ This term is in the book defined as the use of algorithms and feedback in engineered systems.
 
 __control law__ Algorithm in a control system that provides functionality to compute control action based on input from sensors.
