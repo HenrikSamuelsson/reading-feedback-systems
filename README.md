@@ -20,6 +20,8 @@ __dynamical system__ System whose behaviour changes over time. An example is a b
 
 __feedback__ Coupling between dynamical systems in a circular chain of cause and effect. An example is body temperature regulation, when your body temperature rises through exercise, you will start to sweat to release heat.
 
+__feedback loop__ Central concept in control involving a loop construction with sensing, computation, and actuation to give a system a desired behaviour.
+
 __feedforward__ Measuring disturbance and using this as input of a control system to proactively take a corrective action preventing the disturbance from affecting the system. A feedforward controller will not measure the actual output of the system it is hence an open loop system.
 
 __information__ Data in the form of signals in a control system, digital or analog.
