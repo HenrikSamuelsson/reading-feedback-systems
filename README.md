@@ -22,6 +22,8 @@ __feedback__ Coupling between dynamical systems in a circular chain of cause and
 
 __feedforward__ Measuring disturbance and using this as input of a control system to proactively take a corrective action preventing the disturbance from affecting the system. A feedforward controller will not measure the actual output of the system it is hence an open loop system.
 
+__information__ Data in the form of signals in a control system, digital or analog.
+
 __negative feedback__ Type of feedback causing a response that will reverse or cause the opposite effect of the original stimulus. An example is body temperature regulation, when your body temperature rises through exercise, you will start to sweat to release heat.
 
 __open loop__ A system where parts are not connected in a cycle as opposed to a closed loop system.
